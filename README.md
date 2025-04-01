@@ -6,12 +6,12 @@ Exploring the evolution of LLMs, from transformers to techniques like fine-tunin
 
 The first codelab will walk you through getting started with the Gemini 2.0 API and cover several prompt techniques including how different parameters impact the prompts. In the second codelab, you will also learn how to evaluate the response of LLMs using autoraters and structured output.
 
-1. Complete the Intro Unit – \textbf{Foundational Large Language Models & Text Generation}:
+1. Complete the Intro Unit – Foundational Large Language Models & Text Generation:
 
 Listen to [the summary podcast](https://www.youtube.com/watch?v=Na3O4Pkbp-U&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=1) episode for this unit.
 To complement the podcast, read the [Foundational Large Language Models & Text Generation whitepaper](https://www.kaggle.com/whitepaper-foundational-llm-and-text-generation).
 
-2. Complete Unit 1 – \textbf{Prompt Engineering}:
+2. Complete Unit 1 – Prompt Engineering:
 
 Listen to [the summary podcast episode](https://www.youtube.com/watch?v=CFtX0ZyLSAY&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=2)for this unit.
 To complement the podcast, [read the Prompt Engineering whitepaper](https://www.kaggle.com/whitepaper-prompt-engineering).
