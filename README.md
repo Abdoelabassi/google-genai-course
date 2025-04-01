@@ -16,7 +16,7 @@ To complement the podcast, read the [Foundational Large Language Models & Text G
 Listen to [the summary podcast episode](https://www.youtube.com/watch?v=CFtX0ZyLSAY&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=2)for this unit.
 To complement the podcast, [read the Prompt Engineering whitepaper](https://www.kaggle.com/whitepaper-prompt-engineering).
 
-## Unit 2 : Embeddings and Vector Stores/ Databases
+## Unit 2 : Embeddings and Vector Stores Databases
 
 Learning about the conceptual underpinning of embeddings and vector databases, and how they can be used to bring live or specialist data into your LLM application. exploring their geometrical powers for classifying and comparing textual data as well as how to evaluate embeddings.
 
