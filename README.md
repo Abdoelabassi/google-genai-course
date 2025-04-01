@@ -21,7 +21,7 @@ To complement the podcast, [read the Prompt Engineering whitepaper](https://www.
 Learning about the conceptual underpinning of embeddings and vector databases, and how they can be used to bring live or specialist data into your LLM application. exploring their geometrical powers for classifying and comparing textual data as well as how to evaluate embeddings.
 
 <ul>
-    <li>Listen to [the summary podcast episode](https://www.youtube.com/watch?v=xCAVsst6WJ8&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=3) for this unit.</li>
-    <li>To complement the podcast, read the [Embeddings and Vector Stores Databases](https://kaggle.com/whitepaper-embeddings-and-vector-stores) whitepaper.</li>
+    <li>Listen to <a href="https://www.youtube.com/watch?v=xCAVsst6WJ8&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=3">the summary podcast episode</a> for this unit.</li>
+    <li>To complement the podcast, read the <a href="https://kaggle.com/whitepaper-embeddings-and-vector-stores">Embeddings and Vector Stores Databases</a> whitepaper.</li>
     
 </ul>
