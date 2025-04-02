@@ -25,3 +25,25 @@ Learning about the conceptual underpinning of embeddings and vector databases, a
     <li>To complement the podcast, read the <a href="https://kaggle.com/whitepaper-embeddings-and-vector-stores">Embeddings and Vector Stores Databases</a> whitepaper.</li>
     
 </ul>
+
+## Unit 3: Generative AI Agents and Agents companion
+
+Learn to build sophisticated AI agents by understanding their core components and the iterative development process. Also learn more about advanced agentic architectures and approaches such as multi-agent systems, agent evaluation and more.
+
+The codelabs cover how to connect LLMs to existing systems and to the real world. Learn about function calling by giving SQL tools to a chatbot (including an example using Gemini 2.0’s [Live API](https://ai.google.dev/gemini-api/docs/live)), and learn how to build a LangGraph agent that takes orders in a café.
+
+<ol>
+    Complete Unit 3a - “Generative AI Agents”:
+<ul>
+    <li>Listen to the <a href="https://www.youtube.com/watch?v=D3Kaqz7VW28&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=4">summary podcast</a> episode for this unit.</li>
+    <li>To complement the podcast, read the <a href="https://www.kaggle.com/whitepaper-agents">“Generative AI Agents”</a> whitepaper.</li> 
+ </ul>
+
+[Optional] Advanced 3b - “Agents Companion”:
+
+<ul>
+    <li>Listen to the <a href="https://www.youtube.com/watch?v=7rbSwt-7odQ&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=5">summary podcast</a> episode for this unit.</li>
+    <li>Read the advanced <a href="https://www.kaggle.com/whitepaper-agent-companion">“Agents Companion”</a> whitepaper.</li>
+</ul>
+
+</ol>
