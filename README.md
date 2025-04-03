@@ -47,3 +47,14 @@ The codelabs cover how to connect LLMs to existing systems and to the real world
 </ul>
 
 </ol>
+
+# Unit 4 - “Domain-Specific LLMs”:
+
+Delve into the creation and application of specialized LLMs like SecLM and MedLM/Med-PaLM, with insights from the researchers who built them.
+
+In the codelabs, learn how to add real-world data to a model using Google Search and then visualize it with plotting tools via the Live API. You will also learn how to fine-tune a custom Gemini model using your own labeled data to solve custom tasks.
+
+<ul>
+    <li>Listen to the <a href="https://www.youtube.com/watch?v=MWqspvVvNzA&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=6">summary podcast</a> episode for this unit.</li>
+    <li>To complement the podcast, read the <a href="https://www.kaggle.com/whitepaper-solving-domains-specific-problems-using-llms">“Solving Domain-Specific Problems Using LLMs”</a> whitepaper.</li>
+</ul>

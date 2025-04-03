@@ -1,7 +1,6 @@
 from langgraph.prebuilt import create_react_agent
 from langchain_core.tools import tool
 from langchain_community.utilities import SerpAPIWrapper
-from langchain_community.tools import GooglePlacesTool
 from langchain.chat_models import ChatVertexAI
 import os
 from dotenv import load_dotenv
@@ -9,8 +8,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-os.environ["GPLACES_API_KEY"] = os.getenv("GOOGLE_API_KEY")
-os.environ["SERPAPI_API_KEY"] = os.getenv("SERPER_API_KEY")
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
 
 
 @tool
