@@ -58,3 +58,17 @@ In the codelabs, learn how to add real-world data to a model using Google Search
     <li>Listen to the <a href="https://www.youtube.com/watch?v=MWqspvVvNzA&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=6">summary podcast</a> episode for this unit.</li>
     <li>To complement the podcast, read the <a href="https://www.kaggle.com/whitepaper-solving-domains-specific-problems-using-llms">“Solving Domain-Specific Problems Using LLMs”</a> whitepaper.</li>
 </ul>
+
+## Unit 5 - "MLOps for Generative AI":
+
+Discover how to adapt MLOps practices for Generative AI and
+leverage Vertex AI's tools for foundation models and generative AI
+applications such as AgentOps for agentic applications.
+
+<ul>
+    <li> Listen to the <a href="https://www.youtube.com/watch?v=Hbk8UXavHrk&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=7">summary podcast episode</a> for this unit.</li>
+    <li> To complement the podcast, read the <a href="https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops">"MLOps for Generative AI whitepaper"</a>
+    <li>No codelabe, will go through the live demo <a href="https://goo.gle/e2e-gen-ai-app-starter-pack">google/aganet-strter-pack</a>, a resource created for making MLOps for Gen AI easier and accelerating the path
+    to production. go through the repo <a href="https://goo.gle/e2e-gen-ai-app-starter-pack">repository</a></li>
+
+</ul>
